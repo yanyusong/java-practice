@@ -1,2 +1,2 @@
 # java-practice
-i
+java基础知识练习
